@@ -1,17 +1,26 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <meta charset="UTF-8">
         <title>My Web Page!</title>
         <style>
             h1 {
-                color: blue;
-                text-align: center;
+                color: red;
             }
         </style>
     </head>
     <body>
+        <body>
+        <div>
+            工管一李羿澄
+        </div>
+        <div>
+            B08701228
+        </div>
         <h1>Welcome to My Web Page!</h1>
         <p>Hello, world! This is a paragraph of text.</p>
         <p>This is another paragraph!</p>
+        <img src="wolf.jpg">
+    </body>
     </body>
 </html>
